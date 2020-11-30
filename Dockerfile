@@ -15,7 +15,7 @@
 #
 # VERSION   0.0.1
 
-FROM nginx:1.17.8-alpine
+FROM nginx:1.17.10-alpine
 
 MAINTAINER Evan Brown <evanbrown@google.com>
 
